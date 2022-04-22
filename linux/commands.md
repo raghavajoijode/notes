@@ -3,6 +3,7 @@
 ## Linux Directory Commands
 
 ``` pwd ```
+
 ``` mkdir <directory name> ```
 ``` rmdir <directory name> ```
 ``` ls ```
